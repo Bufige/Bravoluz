@@ -17,7 +17,7 @@ Este foi um projeto pago. O contratante apenas queria essa determinada categoria
 # Instalação
 
 Basta ter o pip instalado, com isso, é necessário apenas fazer:
-* > **pip install -r requirements.txt
+* > **pip install -r requirements.txt**
 
 
 ## Feito agora basta fazer: python main.py para rodar !
